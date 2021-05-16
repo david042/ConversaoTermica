@@ -45,9 +45,8 @@ namespace Conversao
             // 
             this.Celsius1.Font = new System.Drawing.Font("Segoe UI", 27F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Celsius1.Location = new System.Drawing.Point(12, 12);
-            this.Celsius1.Multiline = true;
             this.Celsius1.Name = "Celsius1";
-            this.Celsius1.Size = new System.Drawing.Size(167, 56);
+            this.Celsius1.Size = new System.Drawing.Size(167, 55);
             this.Celsius1.TabIndex = 0;
             // 
             // button1
@@ -73,10 +72,9 @@ namespace Conversao
             // 
             this.Fahrenheit1.Font = new System.Drawing.Font("Segoe UI", 28F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Fahrenheit1.Location = new System.Drawing.Point(258, 12);
-            this.Fahrenheit1.Multiline = true;
             this.Fahrenheit1.Name = "Fahrenheit1";
             this.Fahrenheit1.ReadOnly = true;
-            this.Fahrenheit1.Size = new System.Drawing.Size(167, 56);
+            this.Fahrenheit1.Size = new System.Drawing.Size(167, 57);
             this.Fahrenheit1.TabIndex = 3;
             // 
             // label2
@@ -92,19 +90,17 @@ namespace Conversao
             // 
             this.Fahrenheit2.Font = new System.Drawing.Font("Segoe UI", 27F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Fahrenheit2.Location = new System.Drawing.Point(12, 121);
-            this.Fahrenheit2.Multiline = true;
             this.Fahrenheit2.Name = "Fahrenheit2";
-            this.Fahrenheit2.Size = new System.Drawing.Size(167, 56);
+            this.Fahrenheit2.Size = new System.Drawing.Size(167, 55);
             this.Fahrenheit2.TabIndex = 5;
             // 
             // Celsius2
             // 
             this.Celsius2.Font = new System.Drawing.Font("Segoe UI", 27F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.Celsius2.Location = new System.Drawing.Point(258, 121);
-            this.Celsius2.Multiline = true;
             this.Celsius2.Name = "Celsius2";
             this.Celsius2.ReadOnly = true;
-            this.Celsius2.Size = new System.Drawing.Size(167, 56);
+            this.Celsius2.Size = new System.Drawing.Size(167, 55);
             this.Celsius2.TabIndex = 6;
             // 
             // label3
