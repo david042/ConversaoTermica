@@ -147,7 +147,7 @@ namespace Conversao
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Celsius1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Conversão";
             this.ResumeLayout(false);
             this.PerformLayout();
 
